@@ -7,3 +7,5 @@ L = float(input("Enter span length L (m): "))
 Mmax = P * L / 4
 
 print(f"Maximum bending moment = {Mmax:.3f} kN·m")
+
+#changes
